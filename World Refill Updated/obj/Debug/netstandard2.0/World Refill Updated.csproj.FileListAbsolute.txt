@@ -1,0 +1,17 @@
+c:\users\crack\documents\visual studio 2017\Projects\World Refill Updated\World Refill Updated\bin\Debug\netstandard2.0\World Refill Updated.deps.json
+c:\users\crack\documents\visual studio 2017\Projects\World Refill Updated\World Refill Updated\bin\Debug\netstandard2.0\World Refill Updated.dll
+c:\users\crack\documents\visual studio 2017\Projects\World Refill Updated\World Refill Updated\bin\Debug\netstandard2.0\World Refill Updated.pdb
+c:\users\crack\documents\visual studio 2017\Projects\World Refill Updated\World Refill Updated\bin\Debug\netstandard2.0\Mono.Data.Sqlite.dll
+c:\users\crack\documents\visual studio 2017\Projects\World Refill Updated\World Refill Updated\bin\Debug\netstandard2.0\MySql.Data.dll
+c:\users\crack\documents\visual studio 2017\Projects\World Refill Updated\World Refill Updated\bin\Debug\netstandard2.0\Newtonsoft.Json.dll
+c:\users\crack\documents\visual studio 2017\Projects\World Refill Updated\World Refill Updated\bin\Debug\netstandard2.0\OTAPI.dll
+c:\users\crack\documents\visual studio 2017\Projects\World Refill Updated\World Refill Updated\bin\Debug\netstandard2.0\TerrariaServer.exe
+c:\users\crack\documents\visual studio 2017\Projects\World Refill Updated\World Refill Updated\bin\Debug\netstandard2.0\TShockAPI.dll
+c:\users\crack\documents\visual studio 2017\Projects\World Refill Updated\World Refill Updated\bin\Debug\netstandard2.0\HttpServer.dll
+c:\users\crack\documents\visual studio 2017\Projects\World Refill Updated\World Refill Updated\bin\Debug\netstandard2.0\BCrypt.Net.dll
+c:\users\crack\documents\visual studio 2017\Projects\World Refill Updated\World Refill Updated\obj\Debug\netstandard2.0\World Refill Updated.csprojResolveAssemblyReference.cache
+c:\users\crack\documents\visual studio 2017\Projects\World Refill Updated\World Refill Updated\obj\Debug\netstandard2.0\World Refill Updated.csproj.CoreCompileInputs.cache
+c:\users\crack\documents\visual studio 2017\Projects\World Refill Updated\World Refill Updated\obj\Debug\netstandard2.0\World Refill Updated.AssemblyInfoInputs.cache
+c:\users\crack\documents\visual studio 2017\Projects\World Refill Updated\World Refill Updated\obj\Debug\netstandard2.0\World Refill Updated.AssemblyInfo.cs
+c:\users\crack\documents\visual studio 2017\Projects\World Refill Updated\World Refill Updated\obj\Debug\netstandard2.0\World Refill Updated.dll
+c:\users\crack\documents\visual studio 2017\Projects\World Refill Updated\World Refill Updated\obj\Debug\netstandard2.0\World Refill Updated.pdb

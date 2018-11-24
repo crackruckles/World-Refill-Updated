@@ -1,0 +1,4 @@
+[11/24/18 17:28:49] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[11/24/18 17:28:49] [Server API] Verbose: 	Command line: "C:\Users\crack\Documents\visual studio 2017\Projects\World Refill Updated\World Refill Updated\bin\Debug\netstandard2.0\TerrariaServer.exe" 
+[11/24/18 17:28:49] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[11/24/18 17:28:49] [Server API] Verbose: 	Mono: False
